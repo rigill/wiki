@@ -22,3 +22,6 @@ kill %1
 ```
 
 Where %1 is the job number
+
+# TODO
+Should investigate other uses for jobs
